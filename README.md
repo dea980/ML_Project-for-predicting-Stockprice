@@ -1,7 +1,7 @@
 # Introduction to Artificial Intelligence 2023: Stock Market Price Prediction with AI Models
 
 **Authors:** Daeyeop Kim, Antony Doves, and Chima Philips  
-**Institution:** School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN, USA  
+**Institution:** Luddy School of Informatics, Computing, and Engineering, Indiana University 
 **Date:** 2023
 
 ## Abstract
